@@ -1,8 +1,11 @@
-welcome to linux commands
-ls
-mkdir
-cd
-pwd
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a,b,c;
+printf("enter two numbers:");
+scanf("%d%d ,a,b");
+c=a+b;
+printf("addition of two numbers",c);
+}
 
-to remove :
-rmdir
