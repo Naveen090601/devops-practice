@@ -3,3 +3,6 @@ ls
 mkdir
 cd
 pwd
+
+to remove :
+rmdir
